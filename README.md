@@ -2,7 +2,7 @@
 
 ### <span style="color:#99aab5"> <span style="color:;"> &#9998; </span>Екзаменаційна робота на тему: &laquo;node.js&raquo; студентів Комп'ютерної Академії STEP</span> &nbsp;&nbsp;<img src="step.svg" width="50" style="margin-left:15px;background-color:#fff;padding:5px;">
 
-## &#9879; Особливості
+### &#9879; Особливості
 
 - Шаблон проектування [MVC](https://uk.wikipedia.org/wiki/Модель-вид-контролер)
 
@@ -14,7 +14,7 @@
 - для роботи з базами даних використовується ORM-бібліотека [Sequelize](https://sequelize.org)&nbsp;&nbsp;<img align="center" src="sequelize.png" width="15" style="margin-left:5px">
 - міддлвер аутентифікації [Passport](http://www.passportjs.org)&nbsp;&nbsp;<img align="center" src="passport.svg" width="15" style="margin-left:5px">
 
-## :hammer_and_wrench: Щоб запустити проєкт
+### :hammer_and_wrench: Щоб запустити проєкт
 
 - Встановіть [NodeJS](https://nodejs.org/en/) (якщо потрібно)
 - Клонуйте репозиторій за допомогою [Git ](https://git-scm.com/downloads): `git clone https://github.com/RivneITStep/BootShop.git`
@@ -25,7 +25,7 @@
 Якщо ви все зробили правильно, у вас в браузері повинен відкритися
 `http://localhost:8000/`
 
-## :open_file_folder: Файлова структура
+### :open_file_folder: Файлова структура
 
 ```
 BootShop
