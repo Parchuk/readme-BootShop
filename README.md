@@ -6,7 +6,7 @@
 
 - Шаблон проектування [MVC](https://uk.wikipedia.org/wiki/Модель-вид-контролер)
 
- &nbsp;&nbsp;&nbsp;<img src="mvc.png" width="500" style="margin-left:40px">
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="mvc.png" width="300" style="margin-left:40px">
 
 - використовується система управління реляційними базами даних [MariaDB](https://mariadb.org)&nbsp;&nbsp;<img align="center" src="mariadb-logo.png" width="15" style="margin-left:5px">
 - працює на платформі [Node.js](https://nodejs.org/uk/)&nbsp;&nbsp;<img align="center" src="node-js.png" width="20" style="margin-left:5px">
