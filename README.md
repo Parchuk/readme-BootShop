@@ -1,14 +1,13 @@
 # <img align="center" style="background-color: #3A3F44;border-radius:5px;padding:10px 25px;" src="logo.png" width="200" >
 
-## <span style="color:#99aab5"> <span style="color:;"> &#9998; </span>Екзаменаційна робота на тему: &laquo;node.js&raquo; 
- 
-## студентів Комп'ютерної Академії STEP</span> &nbsp;&nbsp;<img src="step.svg" width="50" style="margin-left:15px;background-color:#fff;padding:5px;">
+### <span style="color:#99aab5"> <span style="color:;"> &#9998; </span>Екзаменаційна робота на тему: &laquo;node.js&raquo; 
+ студентів Комп'ютерної Академії STEP</span> &nbsp;&nbsp;<img src="step.svg" width="50" style="margin-left:15px;background-color:#fff;padding:5px;">
 
 ## &#9879; Особливості
 
 - Шаблон проектування [MVC](https://uk.wikipedia.org/wiki/Модель-вид-контролер)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mvc.png" width="500" style="margin-left:40px">
+ &nbsp;&nbsp;&nbsp;<img src="mvc.png" width="500" style="margin-left:40px">
 
 - використовується система управління реляційними базами даних [MariaDB](https://mariadb.org)&nbsp;&nbsp;<img align="center" src="mariadb-logo.png" width="15" style="margin-left:5px">
 - працює на платформі [Node.js](https://nodejs.org/uk/)&nbsp;&nbsp;<img align="center" src="node-js.png" width="20" style="margin-left:5px">
