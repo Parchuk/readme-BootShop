@@ -2,7 +2,7 @@
 
 ## <span style="color:#99aab5"> <span style="color:;"> &#9998; </span>Екзаменаційна робота на тему: &laquo;node.js&raquo; 
  
- студентів Комп'ютерної Академії STEP</span><img src="step.svg" width="50" style="margin-left:15px;background-color:#fff;padding:5px;">
+## студентів Комп'ютерної Академії STEP</span><img src="step.svg" width="50" style="margin-left:15px;background-color:#fff;padding:5px;">
 
 ## &#9879; Особливості
 
