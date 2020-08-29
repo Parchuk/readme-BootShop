@@ -8,13 +8,13 @@
 
 - Шаблон проектування [MVC](https://uk.wikipedia.org/wiki/Модель-вид-контролер)
 
- <img src="mvc.png" width="500" style="margin-left:40px">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mvc.png" width="500" style="margin-left:40px">
 
-- використовується система управління реляційними базами даних [MariaDB](https://mariadb.org)<img align="center" src="mariadb-logo.png" width="15" style="margin-left:5px">
-- працює на платформі [Node.js](https://nodejs.org/uk/)<img align="center" src="node-js.png" width="20" style="margin-left:5px">
-- в якості проміжного обробника для управління сервером і маршрутами використовується фреймворк [Express.js](https://expressjs.com/ru/) <img align="center" src="express-js.png" width="15" style="margin-left:5px">
-- для роботи з базами даних використовується ORM-бібліотека [Sequelize](https://sequelize.org) <img align="center" src="sequelize.png" width="15" style="margin-left:5px">
-- міддлвер аутентифікації [Passport](http://www.passportjs.org)<img align="center" src="passport.svg" width="15" style="margin-left:5px">
+- використовується система управління реляційними базами даних [MariaDB](https://mariadb.org)&nbsp;&nbsp;<img align="center" src="mariadb-logo.png" width="15" style="margin-left:5px">
+- працює на платформі [Node.js](https://nodejs.org/uk/)&nbsp;&nbsp;<img align="center" src="node-js.png" width="20" style="margin-left:5px">
+- в якості проміжного обробника для управління сервером і маршрутами використовується фреймворк [Express.js](https://expressjs.com/ru/)&nbsp;&nbsp;<img align="center" src="express-js.png" width="15" style="margin-left:5px">
+- для роботи з базами даних використовується ORM-бібліотека [Sequelize](https://sequelize.org)&nbsp;&nbsp;<img align="center" src="sequelize.png" width="15" style="margin-left:5px">
+- міддлвер аутентифікації [Passport](http://www.passportjs.org)&nbsp;&nbsp;<img align="center" src="passport.svg" width="15" style="margin-left:5px">
 
 ## :hammer_and_wrench: Щоб запустити проєкт
 
