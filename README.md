@@ -1,6 +1,6 @@
 # <img align="center" style="background-color: #3A3F44;border-radius:5px;padding:10px 25px;" src="logo.png" width="200" >
 
-### <span style="color:#99aab5"> <span style="color:;"> &#9998; </span>Екзаменаційна робота на тему: &laquo;node.js&raquo; студентів Комп'ютерної Академії STEP</span> &nbsp;&nbsp;<img src="step.svg" width="50" style="margin-left:15px;background-color:#fff;padding:5px;">
+### <span style="color:#99aab5"> <span style="color:;"> &#9998; </span>Екзаменаційна робота на тему: &laquo;node.js&raquo; студентів Комп'ютерної Академії STEP</span> &nbsp;<img src="step.svg" width="50" style="margin-left:15px;background-color:#fff;padding:5px;">
 
 ### &#9879; Особливості
 
